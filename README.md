@@ -1,0 +1,1 @@
+# Splunk_Core_Certified_Power_User_SPLK-1002
